@@ -1,8 +1,8 @@
 # Workspace1
 
-PRIMS ALGORITHM: 
+PRIM'S ALGORITHM: 
 
-GENERALLY,Prim's and Kruskal's algorithms are designed to find the Minimum Spanning Tree (MST) in an undirected graph. 
+Generally,Prim's and Kruskal's algorithms are designed to find the Minimum Spanning Tree (MST) in an undirected graph. 
 An MST is a subgraph of an undirected graph that connects all the vertices in the graph with the minimum possible total edge weight. 
 These algorithms work by adding edges to the MST one by one, maintaining the property that the tree remains connected and acyclic.
 
@@ -29,7 +29,7 @@ Therefore, the concept of an MST does not apply to directed graphs and Kruskal's
 
 
 
-DIJIKSTRA ALGORITHM:
+DIJIKSTRA's ALGORITHM:
 
 ITS NOT POSSIBLE FOR THIS DIRECTED GRAPH
 
@@ -40,4 +40,4 @@ CONCLUSION:
 
 PRIM'S ALGORITHM IS SATISFIED.
 KRUSKAL'S ALGOROTHM GIVE ZERO A OUTPUT.
-DIJIKSTRA ALGORITHM GIVE INVALID OUTPUT.
+DIJIKSTRA's ALGORITHM GIVE INVALID OUTPUT.
