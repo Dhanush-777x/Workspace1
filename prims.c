@@ -39,3 +39,30 @@ void main() {
   }
   printf("\n\nMinimum cost = %d", mincost);
 }
+
+
+
+/*
+    OUTPUT:
+
+Enter no. of vertices:5
+Enter the cost adjacency matrix:
+0 4 2 0 0
+0 0 3 2 3
+0 1 0 4 5
+0 0 0 0 0
+0 0 0 -5 0
+The edges of Minimum Spanning Tree are
+
+Edge 1:(1 3), Cost = 2
+The edges of Minimum Spanning Tree are
+
+Edge 2:(3 2), Cost = 1
+The edges of Minimum Spanning Tree are
+
+Edge 3:(2 4), Cost = 2
+The edges of Minimum Spanning Tree are
+
+Edge 4:(2 5), Cost = 3
+
+Minimum cost = 8*/
