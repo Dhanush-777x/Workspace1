@@ -23,6 +23,6 @@ directed graph, the edges have a direction and it is possible for there to be mu
 
 DIJIKSTRA ALGORITHM:
 
-ITS NOT PO0SSIBLE FOR THIS DIRECTED GRAPH
+ITS NOT POSSIBLE FOR THIS DIRECTED GRAPH
 
 Dijkstra's algorithm is a single-source shortest path algorithm that is typically used to find the shortest path from one vertex to all other vertices in an undirected or directed graph with non-negative edge weights.
